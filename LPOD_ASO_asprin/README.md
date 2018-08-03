@@ -1,6 +1,6 @@
 # Introduction
 
-This three files are component programs in `asprin` and are used to find the Pareto-preferred answer sets of the following LPOD program named N_abc.
+These three files are component programs in `asprin` and are used to find the Pareto-preferred answer sets of the following LPOD program named N_abc.
 ```
 dom(1..n).
 
