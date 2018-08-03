@@ -1,0 +1,14 @@
+% command line:
+% time python asprin.py benchmarks/abc_aso.txt benchmarks/test_aso.lp 0 -c n=10
+
+% preference specification
+
+#optimize(paraso).
+
+#preference(paraso, pareto_test) {
+  **s(X)
+}.
+
+#preference(s(X), aso_test) {
+  a(X) >> b(X) || body_1(X)
+} : dom(X).
