@@ -1,0 +1,5 @@
+Sugar(pID, +s) ^ Blood_Pressure(pID, +bp) ^ Age(pID, +age) => Class(pID, +class)
+
+Albumin(pID, +a) => Class(pID, +class)
+
+Serum_Creatinine(pID, +s) => Class(pID, +class)
