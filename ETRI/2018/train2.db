@@ -1,0 +1,920 @@
+Albumin(0, "1")
+Class(0, "ckd")
+
+Albumin(1, "0")
+Class(1, "notckd")
+
+Albumin(2, "1")
+Class(2, "ckd")
+
+Albumin(3, "2")
+Class(3, "ckd")
+
+Albumin(4, "1")
+Class(4, "ckd")
+
+Albumin(5, "0")
+Class(5, "notckd")
+
+Albumin(6, "4")
+Class(6, "ckd")
+
+Albumin(7, "0")
+Class(7, "notckd")
+
+Albumin(8, "1")
+Class(8, "ckd")
+
+Albumin(9, "2")
+Class(9, "ckd")
+
+Albumin(10, "0")
+Class(10, "ckd")
+
+Albumin(11, "1")
+Class(11, "ckd")
+
+Albumin(12, "3")
+Class(12, "ckd")
+
+Albumin(13, "4")
+Class(13, "ckd")
+
+Class(14, "ckd")
+
+Albumin(15, "0")
+Class(15, "notckd")
+
+Class(16, "ckd")
+
+Class(17, "ckd")
+
+Albumin(18, "0")
+Class(18, "ckd")
+
+Albumin(19, "0")
+Class(19, "notckd")
+
+Albumin(20, "2")
+Class(20, "ckd")
+
+Albumin(21, "0")
+Class(21, "ckd")
+
+Class(22, "ckd")
+
+Albumin(23, "1")
+Class(23, "ckd")
+
+Albumin(24, "0")
+Class(24, "ckd")
+
+Class(25, "ckd")
+
+Albumin(26, "0")
+Class(26, "notckd")
+
+Albumin(27, "0")
+Class(27, "notckd")
+
+Albumin(28, "0")
+Class(28, "ckd")
+
+Albumin(29, "0")
+Class(29, "ckd")
+
+Albumin(30, "0")
+Class(30, "notckd")
+
+Albumin(31, "3")
+Class(31, "ckd")
+
+Albumin(32, "0")
+Class(32, "notckd")
+
+Albumin(33, "0")
+Class(33, "notckd")
+
+Albumin(34, "1")
+Class(34, "ckd")
+
+Albumin(35, "2")
+Class(35, "ckd")
+
+Albumin(36, "0")
+Class(36, "notckd")
+
+Class(37, "ckd")
+
+Albumin(38, "0")
+Class(38, "notckd")
+
+Albumin(39, "0")
+Class(39, "notckd")
+
+Albumin(40, "0")
+Class(40, "notckd")
+
+Albumin(41, "0")
+Class(41, "notckd")
+
+Class(42, "ckd")
+
+Albumin(43, "3")
+Class(43, "ckd")
+
+Class(44, "ckd")
+
+Albumin(45, "1")
+Class(45, "ckd")
+
+Albumin(46, "0")
+Class(46, "notckd")
+
+Albumin(47, "3")
+Class(47, "ckd")
+
+Albumin(48, "0")
+Class(48, "notckd")
+
+Albumin(49, "2")
+Class(49, "ckd")
+
+Albumin(50, "0")
+Class(50, "notckd")
+
+Albumin(51, "3")
+Class(51, "ckd")
+
+Albumin(52, "2")
+Class(52, "ckd")
+
+Albumin(53, "2")
+Class(53, "ckd")
+
+Albumin(54, "1")
+Class(54, "ckd")
+
+Albumin(55, "0")
+Class(55, "ckd")
+
+Albumin(56, "0")
+Class(56, "notckd")
+
+Albumin(57, "1")
+Class(57, "ckd")
+
+Albumin(58, "3")
+Class(58, "ckd")
+
+Albumin(59, "0")
+Class(59, "ckd")
+
+Albumin(60, "2")
+Class(60, "ckd")
+
+Albumin(61, "2")
+Class(61, "ckd")
+
+Albumin(62, "0")
+Class(62, "notckd")
+
+Class(63, "notckd")
+
+Albumin(64, "3")
+Class(64, "ckd")
+
+Albumin(65, "2")
+Class(65, "ckd")
+
+Albumin(66, "0")
+Class(66, "notckd")
+
+Class(67, "ckd")
+
+Albumin(68, "3")
+Class(68, "ckd")
+
+Albumin(69, "2")
+Class(69, "ckd")
+
+Albumin(70, "1")
+Class(70, "ckd")
+
+Albumin(71, "1")
+Class(71, "ckd")
+
+Albumin(72, "0")
+Class(72, "notckd")
+
+Albumin(73, "0")
+Class(73, "notckd")
+
+Albumin(74, "0")
+Class(74, "ckd")
+
+Albumin(75, "0")
+Class(75, "notckd")
+
+Class(76, "ckd")
+
+Albumin(77, "3")
+Class(77, "ckd")
+
+Class(78, "ckd")
+
+Albumin(79, "1")
+Class(79, "ckd")
+
+Class(80, "ckd")
+
+Albumin(81, "3")
+Class(81, "ckd")
+
+Albumin(82, "4")
+Class(82, "ckd")
+
+Albumin(83, "0")
+Class(83, "notckd")
+
+Albumin(84, "0")
+Class(84, "ckd")
+
+Albumin(85, "2")
+Class(85, "ckd")
+
+Class(86, "ckd")
+
+Albumin(87, "0")
+Class(87, "notckd")
+
+Albumin(88, "1")
+Class(88, "ckd")
+
+Albumin(89, "4")
+Class(89, "ckd")
+
+Albumin(90, "0")
+Class(90, "ckd")
+
+Albumin(91, "0")
+Class(91, "ckd")
+
+Albumin(92, "3")
+Class(92, "ckd")
+
+Class(93, "ckd")
+
+Class(94, "ckd")
+
+Albumin(95, "0")
+Class(95, "notckd")
+
+Albumin(96, "2")
+Class(96, "ckd")
+
+Albumin(97, "1")
+Class(97, "ckd")
+
+Albumin(98, "1")
+Class(98, "ckd")
+
+Albumin(99, "0")
+Class(99, "notckd")
+
+Albumin(100, "0")
+Class(100, "notckd")
+
+Albumin(101, "0")
+Class(101, "notckd")
+
+Albumin(102, "0")
+Class(102, "notckd")
+
+Albumin(103, "2")
+Class(103, "ckd")
+
+Class(104, "ckd")
+
+Albumin(105, "2")
+Class(105, "ckd")
+
+Albumin(106, "2")
+Class(106, "ckd")
+
+Albumin(107, "0")
+Class(107, "ckd")
+
+Albumin(108, "0")
+Class(108, "notckd")
+
+Albumin(109, "1")
+Class(109, "ckd")
+
+Albumin(110, "3")
+Class(110, "ckd")
+
+Albumin(111, "1")
+Class(111, "ckd")
+
+Albumin(112, "0")
+Class(112, "notckd")
+
+Albumin(113, "0")
+Class(113, "ckd")
+
+Albumin(114, "3")
+Class(114, "ckd")
+
+Albumin(115, "0")
+Class(115, "notckd")
+
+Albumin(116, "4")
+Class(116, "ckd")
+
+Albumin(117, "0")
+Class(117, "notckd")
+
+Albumin(118, "0")
+Class(118, "notckd")
+
+Albumin(119, "0")
+Class(119, "notckd")
+
+Albumin(120, "2")
+Class(120, "ckd")
+
+Albumin(121, "1")
+Class(121, "ckd")
+
+Albumin(122, "0")
+Class(122, "ckd")
+
+Albumin(123, "0")
+Class(123, "notckd")
+
+Albumin(124, "3")
+Class(124, "ckd")
+
+Albumin(125, "0")
+Class(125, "notckd")
+
+Albumin(126, "1")
+Class(126, "ckd")
+
+Albumin(127, "4")
+Class(127, "ckd")
+
+Albumin(128, "0")
+Class(128, "notckd")
+
+Albumin(129, "1")
+Class(129, "ckd")
+
+Albumin(130, "0")
+Class(130, "notckd")
+
+Class(131, "ckd")
+
+Albumin(132, "2")
+Class(132, "ckd")
+
+Albumin(133, "0")
+Class(133, "ckd")
+
+Albumin(134, "0")
+Class(134, "notckd")
+
+Albumin(135, "0")
+Class(135, "notckd")
+
+Albumin(136, "4")
+Class(136, "ckd")
+
+Albumin(137, "0")
+Class(137, "notckd")
+
+Albumin(138, "0")
+Class(138, "ckd")
+
+Albumin(139, "0")
+Class(139, "notckd")
+
+Albumin(140, "0")
+Class(140, "notckd")
+
+Albumin(141, "0")
+Class(141, "notckd")
+
+Albumin(142, "0")
+Class(142, "ckd")
+
+Albumin(143, "3")
+Class(143, "ckd")
+
+Class(144, "notckd")
+
+Albumin(145, "2")
+Class(145, "ckd")
+
+Albumin(146, "0")
+Class(146, "notckd")
+
+Albumin(147, "2")
+Class(147, "ckd")
+
+Albumin(148, "3")
+Class(148, "ckd")
+
+Albumin(149, "0")
+Class(149, "notckd")
+
+Albumin(150, "1")
+Class(150, "ckd")
+
+Albumin(151, "0")
+Class(151, "notckd")
+
+Albumin(152, "0")
+Class(152, "notckd")
+
+Albumin(153, "0")
+Class(153, "ckd")
+
+Albumin(154, "0")
+Class(154, "notckd")
+
+Albumin(155, "0")
+Class(155, "notckd")
+
+Albumin(156, "4")
+Class(156, "ckd")
+
+Class(157, "ckd")
+
+Albumin(158, "4")
+Class(158, "ckd")
+
+Albumin(159, "0")
+Class(159, "notckd")
+
+Albumin(160, "0")
+Class(160, "ckd")
+
+Albumin(161, "1")
+Class(161, "ckd")
+
+Albumin(162, "0")
+Class(162, "notckd")
+
+Albumin(163, "0")
+Class(163, "notckd")
+
+Albumin(164, "0")
+Class(164, "ckd")
+
+Albumin(165, "0")
+Class(165, "notckd")
+
+Albumin(166, "0")
+Class(166, "notckd")
+
+Albumin(167, "0")
+Class(167, "notckd")
+
+Albumin(168, "0")
+Class(168, "notckd")
+
+Albumin(169, "3")
+Class(169, "ckd")
+
+Albumin(170, "0")
+Class(170, "notckd")
+
+Albumin(171, "2")
+Class(171, "ckd")
+
+Albumin(172, "4")
+Class(172, "ckd")
+
+Class(173, "ckd")
+
+Albumin(174, "0")
+Class(174, "notckd")
+
+Albumin(175, "0")
+Class(175, "ckd")
+
+Albumin(176, "4")
+Class(176, "ckd")
+
+Albumin(177, "0")
+Class(177, "ckd")
+
+Albumin(178, "2")
+Class(178, "ckd")
+
+Albumin(179, "0")
+Class(179, "notckd")
+
+Class(180, "ckd")
+
+Albumin(181, "2")
+Class(181, "ckd")
+
+Class(182, "notckd")
+
+Albumin(183, "0")
+Class(183, "notckd")
+
+Albumin(184, "0")
+Class(184, "ckd")
+
+Albumin(185, "0")
+Class(185, "notckd")
+
+Albumin(186, "0")
+Class(186, "notckd")
+
+Albumin(187, "0")
+Class(187, "notckd")
+
+Albumin(188, "0")
+Class(188, "notckd")
+
+Albumin(189, "0")
+Class(189, "notckd")
+
+Albumin(190, "3")
+Class(190, "ckd")
+
+Albumin(191, "0")
+Class(191, "notckd")
+
+Albumin(192, "4")
+Class(192, "ckd")
+
+Class(193, "ckd")
+
+Albumin(194, "1")
+Class(194, "ckd")
+
+Albumin(195, "3")
+Class(195, "ckd")
+
+Albumin(196, "4")
+Class(196, "ckd")
+
+Albumin(197, "0")
+Class(197, "notckd")
+
+Albumin(198, "4")
+Class(198, "ckd")
+
+Albumin(199, "2")
+Class(199, "ckd")
+
+Albumin(200, "3")
+Class(200, "ckd")
+
+Albumin(201, "2")
+Class(201, "ckd")
+
+Albumin(202, "2")
+Class(202, "ckd")
+
+Albumin(203, "1")
+Class(203, "ckd")
+
+Albumin(204, "0")
+Class(204, "ckd")
+
+Class(205, "ckd")
+
+Albumin(206, "2")
+Class(206, "ckd")
+
+Albumin(207, "0")
+Class(207, "notckd")
+
+Albumin(208, "1")
+Class(208, "ckd")
+
+Albumin(209, "0")
+Class(209, "ckd")
+
+Albumin(210, "0")
+Class(210, "notckd")
+
+Albumin(211, "0")
+Class(211, "notckd")
+
+Albumin(212, "0")
+Class(212, "ckd")
+
+Albumin(213, "0")
+Class(213, "ckd")
+
+Albumin(214, "3")
+Class(214, "ckd")
+
+Albumin(215, "0")
+Class(215, "notckd")
+
+Albumin(216, "1")
+Class(216, "ckd")
+
+Class(217, "ckd")
+
+Albumin(218, "0")
+Class(218, "notckd")
+
+Albumin(219, "0")
+Class(219, "notckd")
+
+Albumin(220, "0")
+Class(220, "ckd")
+
+Class(221, "ckd")
+
+Albumin(222, "3")
+Class(222, "ckd")
+
+Albumin(223, "0")
+Class(223, "notckd")
+
+Albumin(224, "1")
+Class(224, "ckd")
+
+Albumin(225, "0")
+Class(225, "notckd")
+
+Albumin(226, "0")
+Class(226, "notckd")
+
+Albumin(227, "0")
+Class(227, "notckd")
+
+Albumin(228, "1")
+Class(228, "ckd")
+
+Albumin(229, "0")
+Class(229, "notckd")
+
+Albumin(230, "0")
+Class(230, "ckd")
+
+Albumin(231, "0")
+Class(231, "notckd")
+
+Albumin(232, "2")
+Class(232, "ckd")
+
+Albumin(233, "0")
+Class(233, "ckd")
+
+Albumin(234, "0")
+Class(234, "ckd")
+
+Albumin(235, "3")
+Class(235, "ckd")
+
+Albumin(236, "0")
+Class(236, "ckd")
+
+Albumin(237, "0")
+Class(237, "notckd")
+
+Class(238, "ckd")
+
+Albumin(239, "2")
+Class(239, "ckd")
+
+Albumin(240, "0")
+Class(240, "notckd")
+
+Albumin(241, "2")
+Class(241, "ckd")
+
+Albumin(242, "2")
+Class(242, "ckd")
+
+Class(243, "ckd")
+
+Albumin(244, "0")
+Class(244, "notckd")
+
+Albumin(245, "2")
+Class(245, "ckd")
+
+Albumin(246, "0")
+Class(246, "notckd")
+
+Class(247, "ckd")
+
+Albumin(248, "3")
+Class(248, "ckd")
+
+Class(249, "ckd")
+
+Albumin(250, "0")
+Class(250, "notckd")
+
+Class(251, "ckd")
+
+Albumin(252, "0")
+Class(252, "notckd")
+
+Albumin(253, "3")
+Class(253, "ckd")
+
+Albumin(254, "0")
+Class(254, "ckd")
+
+Class(255, "ckd")
+
+Albumin(256, "0")
+Class(256, "ckd")
+
+Albumin(257, "4")
+Class(257, "ckd")
+
+Albumin(258, "0")
+Class(258, "notckd")
+
+Albumin(259, "0")
+Class(259, "notckd")
+
+Albumin(260, "0")
+Class(260, "notckd")
+
+Albumin(261, "0")
+Class(261, "notckd")
+
+Albumin(262, "0")
+Class(262, "notckd")
+
+Albumin(263, "0")
+Class(263, "ckd")
+
+Class(264, "ckd")
+
+Albumin(265, "0")
+Class(265, "ckd")
+
+Class(266, "ckd")
+
+Albumin(267, "4")
+Class(267, "ckd")
+
+Albumin(268, "1")
+Class(268, "ckd")
+
+Albumin(269, "2")
+Class(269, "ckd")
+
+Albumin(270, "0")
+Class(270, "notckd")
+
+Albumin(271, "0")
+Class(271, "ckd")
+
+Albumin(272, "0")
+Class(272, "notckd")
+
+Albumin(273, "3")
+Class(273, "ckd")
+
+Albumin(274, "0")
+Class(274, "notckd")
+
+Albumin(275, "0")
+Class(275, "notckd")
+
+Albumin(276, "3")
+Class(276, "ckd")
+
+Albumin(277, "4")
+Class(277, "ckd")
+
+Albumin(278, "0")
+Class(278, "notckd")
+
+Class(279, "ckd")
+
+Albumin(280, "0")
+Class(280, "notckd")
+
+Albumin(281, "0")
+Class(281, "ckd")
+
+Albumin(282, "0")
+Class(282, "ckd")
+
+Albumin(283, "3")
+Class(283, "ckd")
+
+Albumin(284, "0")
+Class(284, "ckd")
+
+Albumin(285, "1")
+Class(285, "ckd")
+
+Albumin(286, "3")
+Class(286, "ckd")
+
+Albumin(287, "4")
+Class(287, "ckd")
+
+Albumin(288, "0")
+Class(288, "notckd")
+
+Albumin(289, "0")
+Class(289, "notckd")
+
+Albumin(290, "1")
+Class(290, "ckd")
+
+Albumin(291, "0")
+Class(291, "ckd")
+
+Albumin(292, "1")
+Class(292, "ckd")
+
+Albumin(293, "0")
+Class(293, "notckd")
+
+Albumin(294, "2")
+Class(294, "ckd")
+
+Albumin(295, "0")
+Class(295, "notckd")
+
+Albumin(296, "4")
+Class(296, "ckd")
+
+Albumin(297, "3")
+Class(297, "ckd")
+
+Class(298, "ckd")
+
+Class(299, "notckd")
+
+Albumin(300, "0")
+Class(300, "notckd")
+
+Albumin(301, "0")
+Class(301, "notckd")
+
+Albumin(302, "3")
+Class(302, "ckd")
+
+Albumin(303, "0")
+Class(303, "notckd")
+
+Albumin(304, "3")
+Class(304, "ckd")
+
+Albumin(305, "3")
+Class(305, "ckd")
+
+Albumin(306, "4")
+Class(306, "ckd")
+
+Albumin(307, "0")
+Class(307, "notckd")
+
+Albumin(308, "3")
+Class(308, "ckd")
+
+Albumin(309, "0")
+Class(309, "ckd")
+
+Albumin(310, "0")
+Class(310, "notckd")
+
+Albumin(311, "3")
+Class(311, "ckd")
+
+Albumin(312, "1")
+Class(312, "ckd")
+
+Albumin(313, "3")
+Class(313, "ckd")
+
+Albumin(314, "0")
+Class(314, "notckd")
+
+Albumin(315, "3")
+Class(315, "ckd")
+
+Class(316, "ckd")
+
+Class(317, "notckd")
+
+Albumin(318, "0")
+Class(318, "notckd")
+
+Class(319, "ckd")
+
+
