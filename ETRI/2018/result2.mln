@@ -1,0 +1,46 @@
+//predicate declarations
+Class(id,dom24!)
+Albumin(id,dom3!)
+
+// -1.88912  Albumin(pID,"0") => Class(pID,"ckd")
+-1.88912  !Albumin(a1,"0") v Class(a1,"ckd")
+
+// -0.104805  Albumin(pID,"0") => Class(pID,"notckd")
+-0.104805  !Albumin(a1,"0") v Class(a1,"notckd")
+
+// 0.775592  Albumin(pID,"1") => Class(pID,"ckd")
+0.775592  !Albumin(a1,"1") v Class(a1,"ckd")
+
+// -0.268812  Albumin(pID,"1") => Class(pID,"notckd")
+-0.268812  !Albumin(a1,"1") v Class(a1,"notckd")
+
+// 0.891059  Albumin(pID,"2") => Class(pID,"ckd")
+0.891059  !Albumin(a1,"2") v Class(a1,"ckd")
+
+// -0.198521  Albumin(pID,"2") => Class(pID,"notckd")
+-0.198521  !Albumin(a1,"2") v Class(a1,"notckd")
+
+// 0.976121  Albumin(pID,"3") => Class(pID,"ckd")
+0.976121  !Albumin(a1,"3") v Class(a1,"ckd")
+
+// -0.248282  Albumin(pID,"3") => Class(pID,"notckd")
+-0.248282  !Albumin(a1,"3") v Class(a1,"notckd")
+
+// 0.923201  Albumin(pID,"4") => Class(pID,"ckd")
+0.923201  !Albumin(a1,"4") v Class(a1,"ckd")
+
+// 0.386325  Albumin(pID,"4") => Class(pID,"notckd")
+0.386325  !Albumin(a1,"4") v Class(a1,"notckd")
+
+// 0.834003  Albumin(pID,"5") => Class(pID,"ckd")
+0.834003  !Albumin(a1,"5") v Class(a1,"ckd")
+
+// 1.20761  Albumin(pID,"5") => Class(pID,"notckd")
+1.20761  !Albumin(a1,"5") v Class(a1,"notckd")
+
+// -1.24895  Albumin(a1,a2!)
+-1.24895  Albumin(a1,a2)
+
+// -0.0444571  Class(a1,a2!)
+-0.0444571  Class(a1,a2)
+
