@@ -1,0 +1,640 @@
+Class(0, "ckd")
+
+Class(1, "notckd")
+
+Class(2, "ckd")
+
+Class(3, "ckd")
+
+Class(4, "ckd")
+
+Class(5, "notckd")
+
+Class(6, "ckd")
+
+Class(7, "notckd")
+
+Class(8, "ckd")
+
+Class(9, "ckd")
+
+Class(10, "ckd")
+
+Class(11, "ckd")
+
+Class(12, "ckd")
+
+Class(13, "ckd")
+
+Class(14, "ckd")
+
+Class(15, "notckd")
+
+Class(16, "ckd")
+
+Class(17, "ckd")
+
+Class(18, "ckd")
+
+Class(19, "notckd")
+
+Class(20, "ckd")
+
+Class(21, "ckd")
+
+Class(22, "ckd")
+
+Class(23, "ckd")
+
+Class(24, "ckd")
+
+Class(25, "ckd")
+
+Class(26, "notckd")
+
+Class(27, "notckd")
+
+Class(28, "ckd")
+
+Class(29, "ckd")
+
+Class(30, "notckd")
+
+Class(31, "ckd")
+
+Class(32, "notckd")
+
+Class(33, "notckd")
+
+Class(34, "ckd")
+
+Class(35, "ckd")
+
+Class(36, "notckd")
+
+Class(37, "ckd")
+
+Class(38, "notckd")
+
+Class(39, "notckd")
+
+Class(40, "notckd")
+
+Class(41, "notckd")
+
+Class(42, "ckd")
+
+Class(43, "ckd")
+
+Class(44, "ckd")
+
+Class(45, "ckd")
+
+Class(46, "notckd")
+
+Class(47, "ckd")
+
+Class(48, "notckd")
+
+Class(49, "ckd")
+
+Class(50, "notckd")
+
+Class(51, "ckd")
+
+Class(52, "ckd")
+
+Class(53, "ckd")
+
+Class(54, "ckd")
+
+Class(55, "ckd")
+
+Class(56, "notckd")
+
+Class(57, "ckd")
+
+Class(58, "ckd")
+
+Class(59, "ckd")
+
+Class(60, "ckd")
+
+Class(61, "ckd")
+
+Class(62, "notckd")
+
+Class(63, "notckd")
+
+Class(64, "ckd")
+
+Class(65, "ckd")
+
+Class(66, "notckd")
+
+Class(67, "ckd")
+
+Class(68, "ckd")
+
+Class(69, "ckd")
+
+Class(70, "ckd")
+
+Class(71, "ckd")
+
+Class(72, "notckd")
+
+Class(73, "notckd")
+
+Class(74, "ckd")
+
+Class(75, "notckd")
+
+Class(76, "ckd")
+
+Class(77, "ckd")
+
+Class(78, "ckd")
+
+Class(79, "ckd")
+
+Class(80, "ckd")
+
+Class(81, "ckd")
+
+Class(82, "ckd")
+
+Class(83, "notckd")
+
+Class(84, "ckd")
+
+Class(85, "ckd")
+
+Class(86, "ckd")
+
+Class(87, "notckd")
+
+Class(88, "ckd")
+
+Class(89, "ckd")
+
+Class(90, "ckd")
+
+Class(91, "ckd")
+
+Class(92, "ckd")
+
+Class(93, "ckd")
+
+Class(94, "ckd")
+
+Class(95, "notckd")
+
+Class(96, "ckd")
+
+Class(97, "ckd")
+
+Class(98, "ckd")
+
+Class(99, "notckd")
+
+Class(100, "notckd")
+
+Class(101, "notckd")
+
+Class(102, "notckd")
+
+Class(103, "ckd")
+
+Class(104, "ckd")
+
+Class(105, "ckd")
+
+Class(106, "ckd")
+
+Class(107, "ckd")
+
+Class(108, "notckd")
+
+Class(109, "ckd")
+
+Class(110, "ckd")
+
+Class(111, "ckd")
+
+Class(112, "notckd")
+
+Class(113, "ckd")
+
+Class(114, "ckd")
+
+Class(115, "notckd")
+
+Class(116, "ckd")
+
+Class(117, "notckd")
+
+Class(118, "notckd")
+
+Class(119, "notckd")
+
+Class(120, "ckd")
+
+Class(121, "ckd")
+
+Class(122, "ckd")
+
+Class(123, "notckd")
+
+Class(124, "ckd")
+
+Class(125, "notckd")
+
+Class(126, "ckd")
+
+Class(127, "ckd")
+
+Class(128, "notckd")
+
+Class(129, "ckd")
+
+Class(130, "notckd")
+
+Class(131, "ckd")
+
+Class(132, "ckd")
+
+Class(133, "ckd")
+
+Class(134, "notckd")
+
+Class(135, "notckd")
+
+Class(136, "ckd")
+
+Class(137, "notckd")
+
+Class(138, "ckd")
+
+Class(139, "notckd")
+
+Class(140, "notckd")
+
+Class(141, "notckd")
+
+Class(142, "ckd")
+
+Class(143, "ckd")
+
+Class(144, "notckd")
+
+Class(145, "ckd")
+
+Class(146, "notckd")
+
+Class(147, "ckd")
+
+Class(148, "ckd")
+
+Class(149, "notckd")
+
+Class(150, "ckd")
+
+Class(151, "notckd")
+
+Class(152, "notckd")
+
+Class(153, "ckd")
+
+Class(154, "notckd")
+
+Class(155, "notckd")
+
+Class(156, "ckd")
+
+Class(157, "ckd")
+
+Class(158, "ckd")
+
+Class(159, "notckd")
+
+Class(160, "ckd")
+
+Class(161, "ckd")
+
+Class(162, "notckd")
+
+Class(163, "notckd")
+
+Class(164, "ckd")
+
+Class(165, "notckd")
+
+Class(166, "notckd")
+
+Class(167, "notckd")
+
+Class(168, "notckd")
+
+Class(169, "ckd")
+
+Class(170, "notckd")
+
+Class(171, "ckd")
+
+Class(172, "ckd")
+
+Class(173, "ckd")
+
+Class(174, "notckd")
+
+Class(175, "ckd")
+
+Class(176, "ckd")
+
+Class(177, "ckd")
+
+Class(178, "ckd")
+
+Class(179, "notckd")
+
+Class(180, "ckd")
+
+Class(181, "ckd")
+
+Class(182, "notckd")
+
+Class(183, "notckd")
+
+Class(184, "ckd")
+
+Class(185, "notckd")
+
+Class(186, "notckd")
+
+Class(187, "notckd")
+
+Class(188, "notckd")
+
+Class(189, "notckd")
+
+Class(190, "ckd")
+
+Class(191, "notckd")
+
+Class(192, "ckd")
+
+Class(193, "ckd")
+
+Class(194, "ckd")
+
+Class(195, "ckd")
+
+Class(196, "ckd")
+
+Class(197, "notckd")
+
+Class(198, "ckd")
+
+Class(199, "ckd")
+
+Class(200, "ckd")
+
+Class(201, "ckd")
+
+Class(202, "ckd")
+
+Class(203, "ckd")
+
+Class(204, "ckd")
+
+Class(205, "ckd")
+
+Class(206, "ckd")
+
+Class(207, "notckd")
+
+Class(208, "ckd")
+
+Class(209, "ckd")
+
+Class(210, "notckd")
+
+Class(211, "notckd")
+
+Class(212, "ckd")
+
+Class(213, "ckd")
+
+Class(214, "ckd")
+
+Class(215, "notckd")
+
+Class(216, "ckd")
+
+Class(217, "ckd")
+
+Class(218, "notckd")
+
+Class(219, "notckd")
+
+Class(220, "ckd")
+
+Class(221, "ckd")
+
+Class(222, "ckd")
+
+Class(223, "notckd")
+
+Class(224, "ckd")
+
+Class(225, "notckd")
+
+Class(226, "notckd")
+
+Class(227, "notckd")
+
+Class(228, "ckd")
+
+Class(229, "notckd")
+
+Class(230, "ckd")
+
+Class(231, "notckd")
+
+Class(232, "ckd")
+
+Class(233, "ckd")
+
+Class(234, "ckd")
+
+Class(235, "ckd")
+
+Class(236, "ckd")
+
+Class(237, "notckd")
+
+Class(238, "ckd")
+
+Class(239, "ckd")
+
+Class(240, "notckd")
+
+Class(241, "ckd")
+
+Class(242, "ckd")
+
+Class(243, "ckd")
+
+Class(244, "notckd")
+
+Class(245, "ckd")
+
+Class(246, "notckd")
+
+Class(247, "ckd")
+
+Class(248, "ckd")
+
+Class(249, "ckd")
+
+Class(250, "notckd")
+
+Class(251, "ckd")
+
+Class(252, "notckd")
+
+Class(253, "ckd")
+
+Class(254, "ckd")
+
+Class(255, "ckd")
+
+Class(256, "ckd")
+
+Class(257, "ckd")
+
+Class(258, "notckd")
+
+Class(259, "notckd")
+
+Class(260, "notckd")
+
+Class(261, "notckd")
+
+Class(262, "notckd")
+
+Class(263, "ckd")
+
+Class(264, "ckd")
+
+Class(265, "ckd")
+
+Class(266, "ckd")
+
+Class(267, "ckd")
+
+Class(268, "ckd")
+
+Class(269, "ckd")
+
+Class(270, "notckd")
+
+Class(271, "ckd")
+
+Class(272, "notckd")
+
+Class(273, "ckd")
+
+Class(274, "notckd")
+
+Class(275, "notckd")
+
+Class(276, "ckd")
+
+Class(277, "ckd")
+
+Class(278, "notckd")
+
+Class(279, "ckd")
+
+Class(280, "notckd")
+
+Class(281, "ckd")
+
+Class(282, "ckd")
+
+Class(283, "ckd")
+
+Class(284, "ckd")
+
+Class(285, "ckd")
+
+Class(286, "ckd")
+
+Class(287, "ckd")
+
+Class(288, "notckd")
+
+Class(289, "notckd")
+
+Class(290, "ckd")
+
+Class(291, "ckd")
+
+Class(292, "ckd")
+
+Class(293, "notckd")
+
+Class(294, "ckd")
+
+Class(295, "notckd")
+
+Class(296, "ckd")
+
+Class(297, "ckd")
+
+Class(298, "ckd")
+
+Class(299, "notckd")
+
+Class(300, "notckd")
+
+Class(301, "notckd")
+
+Class(302, "ckd")
+
+Class(303, "notckd")
+
+Class(304, "ckd")
+
+Class(305, "ckd")
+
+Class(306, "ckd")
+
+Class(307, "notckd")
+
+Class(308, "ckd")
+
+Class(309, "ckd")
+
+Class(310, "notckd")
+
+Class(311, "ckd")
+
+Class(312, "ckd")
+
+Class(313, "ckd")
+
+Class(314, "notckd")
+
+Class(315, "ckd")
+
+Class(316, "ckd")
+
+Class(317, "notckd")
+
+Class(318, "notckd")
+
+Class(319, "ckd")
+
