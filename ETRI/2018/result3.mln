@@ -1,0 +1,33 @@
+//predicate declarations
+Class(id,dom24!)
+Serum_Creatinine(id,dom11!)
+
+// -2.63646  Serum_Creatinine(pID,"0.6~1.3") => Class(pID,"ckd")
+-2.63646  !Serum_Creatinine(a1,"0.6~1.3") v Class(a1,"ckd")
+
+// 0.246223  Serum_Creatinine(pID,"0.6~1.3") => Class(pID,"notckd")
+0.246223  !Serum_Creatinine(a1,"0.6~1.3") v Class(a1,"notckd")
+
+// 0.000899077  Serum_Creatinine(pID,"0~0.5") => Class(pID,"ckd")
+0.000899077  !Serum_Creatinine(a1,"0~0.5") v Class(a1,"ckd")
+
+// 2.64248  Serum_Creatinine(pID,"0~0.5") => Class(pID,"notckd")
+2.64248  !Serum_Creatinine(a1,"0~0.5") v Class(a1,"notckd")
+
+// 3.56185  Serum_Creatinine(pID,"1.4~10") => Class(pID,"ckd")
+3.56185  !Serum_Creatinine(a1,"1.4~10") v Class(a1,"ckd")
+
+// -3.03556  Serum_Creatinine(pID,"1.4~10") => Class(pID,"notckd")
+-3.03556  !Serum_Creatinine(a1,"1.4~10") v Class(a1,"notckd")
+
+// 2.54463  Serum_Creatinine(pID,">10") => Class(pID,"ckd")
+2.54463  !Serum_Creatinine(a1,">10") v Class(a1,"ckd")
+
+// 1.7193  Serum_Creatinine(pID,">10") => Class(pID,"notckd")
+1.7193  !Serum_Creatinine(a1,">10") v Class(a1,"notckd")
+
+// -1.21413  Serum_Creatinine(a1,a2!)
+-1.21413  Serum_Creatinine(a1,a2)
+
+// 0.258604  Class(a1,a2!)
+0.258604  Class(a1,a2)
