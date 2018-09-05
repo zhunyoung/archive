@@ -1,0 +1,625 @@
+Serum_Creatinine(0, "1.4~10")
+
+Serum_Creatinine(1, "0.6~1.3")
+
+Serum_Creatinine(2, "1.4~10")
+
+Serum_Creatinine(3, "1.4~10")
+
+Serum_Creatinine(4, "1.4~10")
+
+
+Serum_Creatinine(6, "1.4~10")
+
+Serum_Creatinine(7, "0.6~1.3")
+
+Serum_Creatinine(8, "0.6~1.3")
+
+Serum_Creatinine(9, "1.4~10")
+
+Serum_Creatinine(10, "0.6~1.3")
+
+Serum_Creatinine(11, "0.6~1.3")
+
+Serum_Creatinine(12, "1.4~10")
+
+Serum_Creatinine(13, "1.4~10")
+
+Serum_Creatinine(14, "1.4~10")
+
+Serum_Creatinine(15, "0.6~1.3")
+
+Serum_Creatinine(16, "1.4~10")
+
+Serum_Creatinine(17, "1.4~10")
+
+
+Serum_Creatinine(19, "0.6~1.3")
+
+Serum_Creatinine(20, "1.4~10")
+
+Serum_Creatinine(21, "1.4~10")
+
+Serum_Creatinine(22, "1.4~10")
+
+Serum_Creatinine(23, "1.4~10")
+
+Serum_Creatinine(24, "0.6~1.3")
+
+Serum_Creatinine(25, "1.4~10")
+
+Serum_Creatinine(26, "0~0.5")
+
+Serum_Creatinine(27, "0.6~1.3")
+
+Serum_Creatinine(28, "0.6~1.3")
+
+Serum_Creatinine(29, "1.4~10")
+
+Serum_Creatinine(30, "0.6~1.3")
+
+Serum_Creatinine(31, ">10")
+
+Serum_Creatinine(32, "0.6~1.3")
+
+Serum_Creatinine(33, "0.6~1.3")
+
+Serum_Creatinine(34, "1.4~10")
+
+Serum_Creatinine(35, ">10")
+
+Serum_Creatinine(36, "0.6~1.3")
+
+Serum_Creatinine(37, "1.4~10")
+
+Serum_Creatinine(38, "0~0.5")
+
+Serum_Creatinine(39, "0.6~1.3")
+
+Serum_Creatinine(40, "0.6~1.3")
+
+Serum_Creatinine(41, "0.6~1.3")
+
+Serum_Creatinine(42, "1.4~10")
+
+Serum_Creatinine(43, ">10")
+
+Serum_Creatinine(44, ">10")
+
+Serum_Creatinine(45, "1.4~10")
+
+Serum_Creatinine(46, "0.6~1.3")
+
+Serum_Creatinine(47, "0.6~1.3")
+
+Serum_Creatinine(48, "0.6~1.3")
+
+Serum_Creatinine(49, "1.4~10")
+
+Serum_Creatinine(50, "0.6~1.3")
+
+Serum_Creatinine(51, "1.4~10")
+
+Serum_Creatinine(52, "1.4~10")
+
+Serum_Creatinine(53, "1.4~10")
+
+Serum_Creatinine(54, "1.4~10")
+
+Serum_Creatinine(55, "1.4~10")
+
+Serum_Creatinine(56, "0.6~1.3")
+
+Serum_Creatinine(57, "1.4~10")
+
+Serum_Creatinine(58, "1.4~10")
+
+Serum_Creatinine(59, "0.6~1.3")
+
+Serum_Creatinine(60, "1.4~10")
+
+Serum_Creatinine(61, "1.4~10")
+
+Serum_Creatinine(62, "0.6~1.3")
+
+Serum_Creatinine(63, "0.6~1.3")
+
+Serum_Creatinine(64, "1.4~10")
+
+Serum_Creatinine(65, "1.4~10")
+
+
+Serum_Creatinine(67, "1.4~10")
+
+
+Serum_Creatinine(69, "1.4~10")
+
+Serum_Creatinine(70, ">10")
+
+Serum_Creatinine(71, "1.4~10")
+
+Serum_Creatinine(72, "0.6~1.3")
+
+Serum_Creatinine(73, "0.6~1.3")
+
+Serum_Creatinine(74, ">10")
+
+Serum_Creatinine(75, "0.6~1.3")
+
+Serum_Creatinine(76, "1.4~10")
+
+
+Serum_Creatinine(78, "1.4~10")
+
+Serum_Creatinine(79, "1.4~10")
+
+Serum_Creatinine(80, "1.4~10")
+
+Serum_Creatinine(81, "1.4~10")
+
+Serum_Creatinine(82, "0.6~1.3")
+
+Serum_Creatinine(83, "0.6~1.3")
+
+
+Serum_Creatinine(85, "1.4~10")
+
+Serum_Creatinine(86, "1.4~10")
+
+Serum_Creatinine(87, "0~0.5")
+
+Serum_Creatinine(88, "0.6~1.3")
+
+Serum_Creatinine(89, ">10")
+
+Serum_Creatinine(90, "1.4~10")
+
+Serum_Creatinine(91, ">10")
+
+Serum_Creatinine(92, "1.4~10")
+
+Serum_Creatinine(93, "1.4~10")
+
+Serum_Creatinine(94, "1.4~10")
+
+
+Serum_Creatinine(96, "1.4~10")
+
+Serum_Creatinine(97, "0.6~1.3")
+
+Serum_Creatinine(98, "0.6~1.3")
+
+Serum_Creatinine(99, "0.6~1.3")
+
+Serum_Creatinine(100, "0.6~1.3")
+
+Serum_Creatinine(101, "0.6~1.3")
+
+Serum_Creatinine(102, "0.6~1.3")
+
+Serum_Creatinine(103, "1.4~10")
+
+Serum_Creatinine(104, ">10")
+
+Serum_Creatinine(105, "1.4~10")
+
+Serum_Creatinine(106, "1.4~10")
+
+
+Serum_Creatinine(108, "0.6~1.3")
+
+Serum_Creatinine(109, "1.4~10")
+
+
+Serum_Creatinine(111, "1.4~10")
+
+Serum_Creatinine(112, "0.6~1.3")
+
+
+Serum_Creatinine(114, "1.4~10")
+
+Serum_Creatinine(115, "0.6~1.3")
+
+Serum_Creatinine(116, "1.4~10")
+
+Serum_Creatinine(117, "0.6~1.3")
+
+Serum_Creatinine(118, "0~0.5")
+
+Serum_Creatinine(119, "0.6~1.3")
+
+Serum_Creatinine(120, "1.4~10")
+
+Serum_Creatinine(121, "1.4~10")
+
+Serum_Creatinine(122, "0.6~1.3")
+
+Serum_Creatinine(123, "0.6~1.3")
+
+Serum_Creatinine(124, "0.6~1.3")
+
+Serum_Creatinine(125, "0.6~1.3")
+
+Serum_Creatinine(126, "1.4~10")
+
+Serum_Creatinine(127, "0~0.5")
+
+Serum_Creatinine(128, "0~0.5")
+
+Serum_Creatinine(129, "1.4~10")
+
+Serum_Creatinine(130, "0.6~1.3")
+
+Serum_Creatinine(131, "1.4~10")
+
+Serum_Creatinine(132, "1.4~10")
+
+Serum_Creatinine(133, "1.4~10")
+
+Serum_Creatinine(134, "0.6~1.3")
+
+Serum_Creatinine(135, "0.6~1.3")
+
+Serum_Creatinine(136, "0.6~1.3")
+
+Serum_Creatinine(137, "0.6~1.3")
+
+Serum_Creatinine(138, "0.6~1.3")
+
+Serum_Creatinine(139, "0.6~1.3")
+
+Serum_Creatinine(140, "0.6~1.3")
+
+Serum_Creatinine(141, "0.6~1.3")
+
+Serum_Creatinine(142, "0.6~1.3")
+
+
+Serum_Creatinine(144, "0.6~1.3")
+
+Serum_Creatinine(145, "1.4~10")
+
+Serum_Creatinine(146, "0.6~1.3")
+
+Serum_Creatinine(147, "1.4~10")
+
+Serum_Creatinine(148, "0.6~1.3")
+
+Serum_Creatinine(149, "0.6~1.3")
+
+Serum_Creatinine(150, "1.4~10")
+
+Serum_Creatinine(151, "0.6~1.3")
+
+Serum_Creatinine(152, "0.6~1.3")
+
+Serum_Creatinine(153, "0.6~1.3")
+
+Serum_Creatinine(154, "0.6~1.3")
+
+Serum_Creatinine(155, "0~0.5")
+
+Serum_Creatinine(156, ">10")
+
+Serum_Creatinine(157, ">10")
+
+Serum_Creatinine(158, "1.4~10")
+
+Serum_Creatinine(159, "0~0.5")
+
+Serum_Creatinine(160, "0.6~1.3")
+
+Serum_Creatinine(161, "1.4~10")
+
+Serum_Creatinine(162, "0~0.5")
+
+Serum_Creatinine(163, "0.6~1.3")
+
+
+Serum_Creatinine(165, "0.6~1.3")
+
+Serum_Creatinine(166, "0.6~1.3")
+
+Serum_Creatinine(167, "0~0.5")
+
+Serum_Creatinine(168, "0.6~1.3")
+
+Serum_Creatinine(169, "1.4~10")
+
+Serum_Creatinine(170, "0.6~1.3")
+
+Serum_Creatinine(171, "1.4~10")
+
+Serum_Creatinine(172, "1.4~10")
+
+Serum_Creatinine(173, "1.4~10")
+
+Serum_Creatinine(174, "0.6~1.3")
+
+Serum_Creatinine(175, "1.4~10")
+
+Serum_Creatinine(176, "1.4~10")
+
+Serum_Creatinine(177, "1.4~10")
+
+Serum_Creatinine(178, "1.4~10")
+
+Serum_Creatinine(179, "0.6~1.3")
+
+Serum_Creatinine(180, "1.4~10")
+
+Serum_Creatinine(181, "0.6~1.3")
+
+Serum_Creatinine(182, "0.6~1.3")
+
+Serum_Creatinine(183, "0.6~1.3")
+
+Serum_Creatinine(184, "0.6~1.3")
+
+Serum_Creatinine(185, "0~0.5")
+
+Serum_Creatinine(186, "0.6~1.3")
+
+Serum_Creatinine(187, "0.6~1.3")
+
+Serum_Creatinine(188, "0.6~1.3")
+
+Serum_Creatinine(189, "0.6~1.3")
+
+Serum_Creatinine(190, "0.6~1.3")
+
+Serum_Creatinine(191, "0.6~1.3")
+
+Serum_Creatinine(192, "1.4~10")
+
+Serum_Creatinine(193, "1.4~10")
+
+Serum_Creatinine(194, "0.6~1.3")
+
+Serum_Creatinine(195, "1.4~10")
+
+Serum_Creatinine(196, "1.4~10")
+
+Serum_Creatinine(197, "0.6~1.3")
+
+Serum_Creatinine(198, "1.4~10")
+
+Serum_Creatinine(199, "1.4~10")
+
+Serum_Creatinine(200, "1.4~10")
+
+Serum_Creatinine(201, "1.4~10")
+
+Serum_Creatinine(202, "1.4~10")
+
+Serum_Creatinine(203, "1.4~10")
+
+Serum_Creatinine(204, "1.4~10")
+
+Serum_Creatinine(205, "1.4~10")
+
+Serum_Creatinine(206, "1.4~10")
+
+Serum_Creatinine(207, "0.6~1.3")
+
+Serum_Creatinine(208, "1.4~10")
+
+Serum_Creatinine(209, "1.4~10")
+
+Serum_Creatinine(210, "0~0.5")
+
+Serum_Creatinine(211, "0~0.5")
+
+Serum_Creatinine(212, "0.6~1.3")
+
+Serum_Creatinine(213, "1.4~10")
+
+Serum_Creatinine(214, "1.4~10")
+
+Serum_Creatinine(215, "0.6~1.3")
+
+Serum_Creatinine(216, "0.6~1.3")
+
+Serum_Creatinine(217, "1.4~10")
+
+Serum_Creatinine(218, "0~0.5")
+
+Serum_Creatinine(219, "0.6~1.3")
+
+Serum_Creatinine(220, "0.6~1.3")
+
+Serum_Creatinine(221, "1.4~10")
+
+Serum_Creatinine(222, "1.4~10")
+
+Serum_Creatinine(223, "0.6~1.3")
+
+Serum_Creatinine(224, "0.6~1.3")
+
+Serum_Creatinine(225, "0.6~1.3")
+
+
+Serum_Creatinine(227, "0.6~1.3")
+
+
+Serum_Creatinine(229, "0.6~1.3")
+
+Serum_Creatinine(230, "0.6~1.3")
+
+Serum_Creatinine(231, "0.6~1.3")
+
+Serum_Creatinine(232, "1.4~10")
+
+Serum_Creatinine(233, "1.4~10")
+
+Serum_Creatinine(234, "0.6~1.3")
+
+Serum_Creatinine(235, ">10")
+
+Serum_Creatinine(236, "0.6~1.3")
+
+Serum_Creatinine(237, "0~0.5")
+
+Serum_Creatinine(238, "1.4~10")
+
+Serum_Creatinine(239, "1.4~10")
+
+Serum_Creatinine(240, "0~0.5")
+
+Serum_Creatinine(241, "1.4~10")
+
+Serum_Creatinine(242, "1.4~10")
+
+Serum_Creatinine(243, "1.4~10")
+
+Serum_Creatinine(244, "0.6~1.3")
+
+Serum_Creatinine(245, "1.4~10")
+
+Serum_Creatinine(246, "0.6~1.3")
+
+Serum_Creatinine(247, ">10")
+
+Serum_Creatinine(248, "1.4~10")
+
+Serum_Creatinine(249, ">10")
+
+Serum_Creatinine(250, "0.6~1.3")
+
+Serum_Creatinine(251, "1.4~10")
+
+Serum_Creatinine(252, "0.6~1.3")
+
+Serum_Creatinine(253, "1.4~10")
+
+Serum_Creatinine(254, "0.6~1.3")
+
+Serum_Creatinine(255, "1.4~10")
+
+Serum_Creatinine(256, "0.6~1.3")
+
+Serum_Creatinine(257, "1.4~10")
+
+Serum_Creatinine(258, "0~0.5")
+
+Serum_Creatinine(259, "0.6~1.3")
+
+Serum_Creatinine(260, "0.6~1.3")
+
+Serum_Creatinine(261, "0~0.5")
+
+Serum_Creatinine(262, "0.6~1.3")
+
+Serum_Creatinine(263, "0.6~1.3")
+
+Serum_Creatinine(264, "1.4~10")
+
+Serum_Creatinine(265, "1.4~10")
+
+Serum_Creatinine(266, "1.4~10")
+
+Serum_Creatinine(267, "1.4~10")
+
+Serum_Creatinine(268, "1.4~10")
+
+Serum_Creatinine(269, ">10")
+
+Serum_Creatinine(270, "0.6~1.3")
+
+Serum_Creatinine(271, "0.6~1.3")
+
+Serum_Creatinine(272, "0~0.5")
+
+Serum_Creatinine(273, ">10")
+
+Serum_Creatinine(274, "0.6~1.3")
+
+Serum_Creatinine(275, "0~0.5")
+
+Serum_Creatinine(276, "1.4~10")
+
+Serum_Creatinine(277, ">10")
+
+Serum_Creatinine(278, "0~0.5")
+
+Serum_Creatinine(279, "1.4~10")
+
+Serum_Creatinine(280, "0.6~1.3")
+
+Serum_Creatinine(281, "1.4~10")
+
+Serum_Creatinine(282, "0.6~1.3")
+
+Serum_Creatinine(283, "0.6~1.3")
+
+Serum_Creatinine(284, "0.6~1.3")
+
+Serum_Creatinine(285, "1.4~10")
+
+Serum_Creatinine(286, "1.4~10")
+
+Serum_Creatinine(287, "1.4~10")
+
+Serum_Creatinine(288, "0~0.5")
+
+Serum_Creatinine(289, "0.6~1.3")
+
+Serum_Creatinine(290, "1.4~10")
+
+Serum_Creatinine(291, "1.4~10")
+
+Serum_Creatinine(292, "0.6~1.3")
+
+Serum_Creatinine(293, "0.6~1.3")
+
+Serum_Creatinine(294, "0.6~1.3")
+
+Serum_Creatinine(295, "0.6~1.3")
+
+Serum_Creatinine(296, ">10")
+
+Serum_Creatinine(297, "1.4~10")
+
+Serum_Creatinine(298, "1.4~10")
+
+Serum_Creatinine(299, "0.6~1.3")
+
+Serum_Creatinine(300, "0.6~1.3")
+
+Serum_Creatinine(301, "0.6~1.3")
+
+Serum_Creatinine(302, "1.4~10")
+
+Serum_Creatinine(303, "0.6~1.3")
+
+Serum_Creatinine(304, "1.4~10")
+
+Serum_Creatinine(305, "0.6~1.3")
+
+Serum_Creatinine(306, "1.4~10")
+
+Serum_Creatinine(307, "0.6~1.3")
+
+Serum_Creatinine(308, "1.4~10")
+
+Serum_Creatinine(309, "1.4~10")
+
+Serum_Creatinine(310, "0.6~1.3")
+
+Serum_Creatinine(311, "1.4~10")
+
+Serum_Creatinine(312, "1.4~10")
+
+Serum_Creatinine(313, "1.4~10")
+
+Serum_Creatinine(314, "0.6~1.3")
+
+Serum_Creatinine(315, "1.4~10")
+
+Serum_Creatinine(316, ">10")
+
+Serum_Creatinine(317, "0~0.5")
+
+Serum_Creatinine(318, "0.6~1.3")
+
+Serum_Creatinine(319, "1.4~10")

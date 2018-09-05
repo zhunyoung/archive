@@ -1,0 +1,945 @@
+Serum_Creatinine(0, "1.4~10")
+Class(0, "ckd")
+
+Serum_Creatinine(1, "0.6~1.3")
+Class(1, "notckd")
+
+Serum_Creatinine(2, "1.4~10")
+Class(2, "ckd")
+
+Serum_Creatinine(3, "1.4~10")
+Class(3, "ckd")
+
+Serum_Creatinine(4, "1.4~10")
+Class(4, "ckd")
+
+Class(5, "notckd")
+
+Serum_Creatinine(6, "1.4~10")
+Class(6, "ckd")
+
+Serum_Creatinine(7, "0.6~1.3")
+Class(7, "notckd")
+
+Serum_Creatinine(8, "0.6~1.3")
+Class(8, "ckd")
+
+Serum_Creatinine(9, "1.4~10")
+Class(9, "ckd")
+
+Serum_Creatinine(10, "0.6~1.3")
+Class(10, "ckd")
+
+Serum_Creatinine(11, "0.6~1.3")
+Class(11, "ckd")
+
+Serum_Creatinine(12, "1.4~10")
+Class(12, "ckd")
+
+Serum_Creatinine(13, "1.4~10")
+Class(13, "ckd")
+
+Serum_Creatinine(14, "1.4~10")
+Class(14, "ckd")
+
+Serum_Creatinine(15, "0.6~1.3")
+Class(15, "notckd")
+
+Serum_Creatinine(16, "1.4~10")
+Class(16, "ckd")
+
+Serum_Creatinine(17, "1.4~10")
+Class(17, "ckd")
+
+Class(18, "ckd")
+
+Serum_Creatinine(19, "0.6~1.3")
+Class(19, "notckd")
+
+Serum_Creatinine(20, "1.4~10")
+Class(20, "ckd")
+
+Serum_Creatinine(21, "1.4~10")
+Class(21, "ckd")
+
+Serum_Creatinine(22, "1.4~10")
+Class(22, "ckd")
+
+Serum_Creatinine(23, "1.4~10")
+Class(23, "ckd")
+
+Serum_Creatinine(24, "0.6~1.3")
+Class(24, "ckd")
+
+Serum_Creatinine(25, "1.4~10")
+Class(25, "ckd")
+
+Serum_Creatinine(26, "0~0.5")
+Class(26, "notckd")
+
+Serum_Creatinine(27, "0.6~1.3")
+Class(27, "notckd")
+
+Serum_Creatinine(28, "0.6~1.3")
+Class(28, "ckd")
+
+Serum_Creatinine(29, "1.4~10")
+Class(29, "ckd")
+
+Serum_Creatinine(30, "0.6~1.3")
+Class(30, "notckd")
+
+Serum_Creatinine(31, ">10")
+Class(31, "ckd")
+
+Serum_Creatinine(32, "0.6~1.3")
+Class(32, "notckd")
+
+Serum_Creatinine(33, "0.6~1.3")
+Class(33, "notckd")
+
+Serum_Creatinine(34, "1.4~10")
+Class(34, "ckd")
+
+Serum_Creatinine(35, ">10")
+Class(35, "ckd")
+
+Serum_Creatinine(36, "0.6~1.3")
+Class(36, "notckd")
+
+Serum_Creatinine(37, "1.4~10")
+Class(37, "ckd")
+
+Serum_Creatinine(38, "0~0.5")
+Class(38, "notckd")
+
+Serum_Creatinine(39, "0.6~1.3")
+Class(39, "notckd")
+
+Serum_Creatinine(40, "0.6~1.3")
+Class(40, "notckd")
+
+Serum_Creatinine(41, "0.6~1.3")
+Class(41, "notckd")
+
+Serum_Creatinine(42, "1.4~10")
+Class(42, "ckd")
+
+Serum_Creatinine(43, ">10")
+Class(43, "ckd")
+
+Serum_Creatinine(44, ">10")
+Class(44, "ckd")
+
+Serum_Creatinine(45, "1.4~10")
+Class(45, "ckd")
+
+Serum_Creatinine(46, "0.6~1.3")
+Class(46, "notckd")
+
+Serum_Creatinine(47, "0.6~1.3")
+Class(47, "ckd")
+
+Serum_Creatinine(48, "0.6~1.3")
+Class(48, "notckd")
+
+Serum_Creatinine(49, "1.4~10")
+Class(49, "ckd")
+
+Serum_Creatinine(50, "0.6~1.3")
+Class(50, "notckd")
+
+Serum_Creatinine(51, "1.4~10")
+Class(51, "ckd")
+
+Serum_Creatinine(52, "1.4~10")
+Class(52, "ckd")
+
+Serum_Creatinine(53, "1.4~10")
+Class(53, "ckd")
+
+Serum_Creatinine(54, "1.4~10")
+Class(54, "ckd")
+
+Serum_Creatinine(55, "1.4~10")
+Class(55, "ckd")
+
+Serum_Creatinine(56, "0.6~1.3")
+Class(56, "notckd")
+
+Serum_Creatinine(57, "1.4~10")
+Class(57, "ckd")
+
+Serum_Creatinine(58, "1.4~10")
+Class(58, "ckd")
+
+Serum_Creatinine(59, "0.6~1.3")
+Class(59, "ckd")
+
+Serum_Creatinine(60, "1.4~10")
+Class(60, "ckd")
+
+Serum_Creatinine(61, "1.4~10")
+Class(61, "ckd")
+
+Serum_Creatinine(62, "0.6~1.3")
+Class(62, "notckd")
+
+Serum_Creatinine(63, "0.6~1.3")
+Class(63, "notckd")
+
+Serum_Creatinine(64, "1.4~10")
+Class(64, "ckd")
+
+Serum_Creatinine(65, "1.4~10")
+Class(65, "ckd")
+
+Class(66, "notckd")
+
+Serum_Creatinine(67, "1.4~10")
+Class(67, "ckd")
+
+Class(68, "ckd")
+
+Serum_Creatinine(69, "1.4~10")
+Class(69, "ckd")
+
+Serum_Creatinine(70, ">10")
+Class(70, "ckd")
+
+Serum_Creatinine(71, "1.4~10")
+Class(71, "ckd")
+
+Serum_Creatinine(72, "0.6~1.3")
+Class(72, "notckd")
+
+Serum_Creatinine(73, "0.6~1.3")
+Class(73, "notckd")
+
+Serum_Creatinine(74, ">10")
+Class(74, "ckd")
+
+Serum_Creatinine(75, "0.6~1.3")
+Class(75, "notckd")
+
+Serum_Creatinine(76, "1.4~10")
+Class(76, "ckd")
+
+Class(77, "ckd")
+
+Serum_Creatinine(78, "1.4~10")
+Class(78, "ckd")
+
+Serum_Creatinine(79, "1.4~10")
+Class(79, "ckd")
+
+Serum_Creatinine(80, "1.4~10")
+Class(80, "ckd")
+
+Serum_Creatinine(81, "1.4~10")
+Class(81, "ckd")
+
+Serum_Creatinine(82, "0.6~1.3")
+Class(82, "ckd")
+
+Serum_Creatinine(83, "0.6~1.3")
+Class(83, "notckd")
+
+Class(84, "ckd")
+
+Serum_Creatinine(85, "1.4~10")
+Class(85, "ckd")
+
+Serum_Creatinine(86, "1.4~10")
+Class(86, "ckd")
+
+Serum_Creatinine(87, "0~0.5")
+Class(87, "notckd")
+
+Serum_Creatinine(88, "0.6~1.3")
+Class(88, "ckd")
+
+Serum_Creatinine(89, ">10")
+Class(89, "ckd")
+
+Serum_Creatinine(90, "1.4~10")
+Class(90, "ckd")
+
+Serum_Creatinine(91, ">10")
+Class(91, "ckd")
+
+Serum_Creatinine(92, "1.4~10")
+Class(92, "ckd")
+
+Serum_Creatinine(93, "1.4~10")
+Class(93, "ckd")
+
+Serum_Creatinine(94, "1.4~10")
+Class(94, "ckd")
+
+Class(95, "notckd")
+
+Serum_Creatinine(96, "1.4~10")
+Class(96, "ckd")
+
+Serum_Creatinine(97, "0.6~1.3")
+Class(97, "ckd")
+
+Serum_Creatinine(98, "0.6~1.3")
+Class(98, "ckd")
+
+Serum_Creatinine(99, "0.6~1.3")
+Class(99, "notckd")
+
+Serum_Creatinine(100, "0.6~1.3")
+Class(100, "notckd")
+
+Serum_Creatinine(101, "0.6~1.3")
+Class(101, "notckd")
+
+Serum_Creatinine(102, "0.6~1.3")
+Class(102, "notckd")
+
+Serum_Creatinine(103, "1.4~10")
+Class(103, "ckd")
+
+Serum_Creatinine(104, ">10")
+Class(104, "ckd")
+
+Serum_Creatinine(105, "1.4~10")
+Class(105, "ckd")
+
+Serum_Creatinine(106, "1.4~10")
+Class(106, "ckd")
+
+Class(107, "ckd")
+
+Serum_Creatinine(108, "0.6~1.3")
+Class(108, "notckd")
+
+Serum_Creatinine(109, "1.4~10")
+Class(109, "ckd")
+
+Class(110, "ckd")
+
+Serum_Creatinine(111, "1.4~10")
+Class(111, "ckd")
+
+Serum_Creatinine(112, "0.6~1.3")
+Class(112, "notckd")
+
+Class(113, "ckd")
+
+Serum_Creatinine(114, "1.4~10")
+Class(114, "ckd")
+
+Serum_Creatinine(115, "0.6~1.3")
+Class(115, "notckd")
+
+Serum_Creatinine(116, "1.4~10")
+Class(116, "ckd")
+
+Serum_Creatinine(117, "0.6~1.3")
+Class(117, "notckd")
+
+Serum_Creatinine(118, "0~0.5")
+Class(118, "notckd")
+
+Serum_Creatinine(119, "0.6~1.3")
+Class(119, "notckd")
+
+Serum_Creatinine(120, "1.4~10")
+Class(120, "ckd")
+
+Serum_Creatinine(121, "1.4~10")
+Class(121, "ckd")
+
+Serum_Creatinine(122, "0.6~1.3")
+Class(122, "ckd")
+
+Serum_Creatinine(123, "0.6~1.3")
+Class(123, "notckd")
+
+Serum_Creatinine(124, "0.6~1.3")
+Class(124, "ckd")
+
+Serum_Creatinine(125, "0.6~1.3")
+Class(125, "notckd")
+
+Serum_Creatinine(126, "1.4~10")
+Class(126, "ckd")
+
+Serum_Creatinine(127, "0~0.5")
+Class(127, "ckd")
+
+Serum_Creatinine(128, "0~0.5")
+Class(128, "notckd")
+
+Serum_Creatinine(129, "1.4~10")
+Class(129, "ckd")
+
+Serum_Creatinine(130, "0.6~1.3")
+Class(130, "notckd")
+
+Serum_Creatinine(131, "1.4~10")
+Class(131, "ckd")
+
+Serum_Creatinine(132, "1.4~10")
+Class(132, "ckd")
+
+Serum_Creatinine(133, "1.4~10")
+Class(133, "ckd")
+
+Serum_Creatinine(134, "0.6~1.3")
+Class(134, "notckd")
+
+Serum_Creatinine(135, "0.6~1.3")
+Class(135, "notckd")
+
+Serum_Creatinine(136, "0.6~1.3")
+Class(136, "ckd")
+
+Serum_Creatinine(137, "0.6~1.3")
+Class(137, "notckd")
+
+Serum_Creatinine(138, "0.6~1.3")
+Class(138, "ckd")
+
+Serum_Creatinine(139, "0.6~1.3")
+Class(139, "notckd")
+
+Serum_Creatinine(140, "0.6~1.3")
+Class(140, "notckd")
+
+Serum_Creatinine(141, "0.6~1.3")
+Class(141, "notckd")
+
+Serum_Creatinine(142, "0.6~1.3")
+Class(142, "ckd")
+
+Class(143, "ckd")
+
+Serum_Creatinine(144, "0.6~1.3")
+Class(144, "notckd")
+
+Serum_Creatinine(145, "1.4~10")
+Class(145, "ckd")
+
+Serum_Creatinine(146, "0.6~1.3")
+Class(146, "notckd")
+
+Serum_Creatinine(147, "1.4~10")
+Class(147, "ckd")
+
+Serum_Creatinine(148, "0.6~1.3")
+Class(148, "ckd")
+
+Serum_Creatinine(149, "0.6~1.3")
+Class(149, "notckd")
+
+Serum_Creatinine(150, "1.4~10")
+Class(150, "ckd")
+
+Serum_Creatinine(151, "0.6~1.3")
+Class(151, "notckd")
+
+Serum_Creatinine(152, "0.6~1.3")
+Class(152, "notckd")
+
+Serum_Creatinine(153, "0.6~1.3")
+Class(153, "ckd")
+
+Serum_Creatinine(154, "0.6~1.3")
+Class(154, "notckd")
+
+Serum_Creatinine(155, "0~0.5")
+Class(155, "notckd")
+
+Serum_Creatinine(156, ">10")
+Class(156, "ckd")
+
+Serum_Creatinine(157, ">10")
+Class(157, "ckd")
+
+Serum_Creatinine(158, "1.4~10")
+Class(158, "ckd")
+
+Serum_Creatinine(159, "0~0.5")
+Class(159, "notckd")
+
+Serum_Creatinine(160, "0.6~1.3")
+Class(160, "ckd")
+
+Serum_Creatinine(161, "1.4~10")
+Class(161, "ckd")
+
+Serum_Creatinine(162, "0~0.5")
+Class(162, "notckd")
+
+Serum_Creatinine(163, "0.6~1.3")
+Class(163, "notckd")
+
+Class(164, "ckd")
+
+Serum_Creatinine(165, "0.6~1.3")
+Class(165, "notckd")
+
+Serum_Creatinine(166, "0.6~1.3")
+Class(166, "notckd")
+
+Serum_Creatinine(167, "0~0.5")
+Class(167, "notckd")
+
+Serum_Creatinine(168, "0.6~1.3")
+Class(168, "notckd")
+
+Serum_Creatinine(169, "1.4~10")
+Class(169, "ckd")
+
+Serum_Creatinine(170, "0.6~1.3")
+Class(170, "notckd")
+
+Serum_Creatinine(171, "1.4~10")
+Class(171, "ckd")
+
+Serum_Creatinine(172, "1.4~10")
+Class(172, "ckd")
+
+Serum_Creatinine(173, "1.4~10")
+Class(173, "ckd")
+
+Serum_Creatinine(174, "0.6~1.3")
+Class(174, "notckd")
+
+Serum_Creatinine(175, "1.4~10")
+Class(175, "ckd")
+
+Serum_Creatinine(176, "1.4~10")
+Class(176, "ckd")
+
+Serum_Creatinine(177, "1.4~10")
+Class(177, "ckd")
+
+Serum_Creatinine(178, "1.4~10")
+Class(178, "ckd")
+
+Serum_Creatinine(179, "0.6~1.3")
+Class(179, "notckd")
+
+Serum_Creatinine(180, "1.4~10")
+Class(180, "ckd")
+
+Serum_Creatinine(181, "0.6~1.3")
+Class(181, "ckd")
+
+Serum_Creatinine(182, "0.6~1.3")
+Class(182, "notckd")
+
+Serum_Creatinine(183, "0.6~1.3")
+Class(183, "notckd")
+
+Serum_Creatinine(184, "0.6~1.3")
+Class(184, "ckd")
+
+Serum_Creatinine(185, "0~0.5")
+Class(185, "notckd")
+
+Serum_Creatinine(186, "0.6~1.3")
+Class(186, "notckd")
+
+Serum_Creatinine(187, "0.6~1.3")
+Class(187, "notckd")
+
+Serum_Creatinine(188, "0.6~1.3")
+Class(188, "notckd")
+
+Serum_Creatinine(189, "0.6~1.3")
+Class(189, "notckd")
+
+Serum_Creatinine(190, "0.6~1.3")
+Class(190, "ckd")
+
+Serum_Creatinine(191, "0.6~1.3")
+Class(191, "notckd")
+
+Serum_Creatinine(192, "1.4~10")
+Class(192, "ckd")
+
+Serum_Creatinine(193, "1.4~10")
+Class(193, "ckd")
+
+Serum_Creatinine(194, "0.6~1.3")
+Class(194, "ckd")
+
+Serum_Creatinine(195, "1.4~10")
+Class(195, "ckd")
+
+Serum_Creatinine(196, "1.4~10")
+Class(196, "ckd")
+
+Serum_Creatinine(197, "0.6~1.3")
+Class(197, "notckd")
+
+Serum_Creatinine(198, "1.4~10")
+Class(198, "ckd")
+
+Serum_Creatinine(199, "1.4~10")
+Class(199, "ckd")
+
+Serum_Creatinine(200, "1.4~10")
+Class(200, "ckd")
+
+Serum_Creatinine(201, "1.4~10")
+Class(201, "ckd")
+
+Serum_Creatinine(202, "1.4~10")
+Class(202, "ckd")
+
+Serum_Creatinine(203, "1.4~10")
+Class(203, "ckd")
+
+Serum_Creatinine(204, "1.4~10")
+Class(204, "ckd")
+
+Serum_Creatinine(205, "1.4~10")
+Class(205, "ckd")
+
+Serum_Creatinine(206, "1.4~10")
+Class(206, "ckd")
+
+Serum_Creatinine(207, "0.6~1.3")
+Class(207, "notckd")
+
+Serum_Creatinine(208, "1.4~10")
+Class(208, "ckd")
+
+Serum_Creatinine(209, "1.4~10")
+Class(209, "ckd")
+
+Serum_Creatinine(210, "0~0.5")
+Class(210, "notckd")
+
+Serum_Creatinine(211, "0~0.5")
+Class(211, "notckd")
+
+Serum_Creatinine(212, "0.6~1.3")
+Class(212, "ckd")
+
+Serum_Creatinine(213, "1.4~10")
+Class(213, "ckd")
+
+Serum_Creatinine(214, "1.4~10")
+Class(214, "ckd")
+
+Serum_Creatinine(215, "0.6~1.3")
+Class(215, "notckd")
+
+Serum_Creatinine(216, "0.6~1.3")
+Class(216, "ckd")
+
+Serum_Creatinine(217, "1.4~10")
+Class(217, "ckd")
+
+Serum_Creatinine(218, "0~0.5")
+Class(218, "notckd")
+
+Serum_Creatinine(219, "0.6~1.3")
+Class(219, "notckd")
+
+Serum_Creatinine(220, "0.6~1.3")
+Class(220, "ckd")
+
+Serum_Creatinine(221, "1.4~10")
+Class(221, "ckd")
+
+Serum_Creatinine(222, "1.4~10")
+Class(222, "ckd")
+
+Serum_Creatinine(223, "0.6~1.3")
+Class(223, "notckd")
+
+Serum_Creatinine(224, "0.6~1.3")
+Class(224, "ckd")
+
+Serum_Creatinine(225, "0.6~1.3")
+Class(225, "notckd")
+
+Class(226, "notckd")
+
+Serum_Creatinine(227, "0.6~1.3")
+Class(227, "notckd")
+
+Class(228, "ckd")
+
+Serum_Creatinine(229, "0.6~1.3")
+Class(229, "notckd")
+
+Serum_Creatinine(230, "0.6~1.3")
+Class(230, "ckd")
+
+Serum_Creatinine(231, "0.6~1.3")
+Class(231, "notckd")
+
+Serum_Creatinine(232, "1.4~10")
+Class(232, "ckd")
+
+Serum_Creatinine(233, "1.4~10")
+Class(233, "ckd")
+
+Serum_Creatinine(234, "0.6~1.3")
+Class(234, "ckd")
+
+Serum_Creatinine(235, ">10")
+Class(235, "ckd")
+
+Serum_Creatinine(236, "0.6~1.3")
+Class(236, "ckd")
+
+Serum_Creatinine(237, "0~0.5")
+Class(237, "notckd")
+
+Serum_Creatinine(238, "1.4~10")
+Class(238, "ckd")
+
+Serum_Creatinine(239, "1.4~10")
+Class(239, "ckd")
+
+Serum_Creatinine(240, "0~0.5")
+Class(240, "notckd")
+
+Serum_Creatinine(241, "1.4~10")
+Class(241, "ckd")
+
+Serum_Creatinine(242, "1.4~10")
+Class(242, "ckd")
+
+Serum_Creatinine(243, "1.4~10")
+Class(243, "ckd")
+
+Serum_Creatinine(244, "0.6~1.3")
+Class(244, "notckd")
+
+Serum_Creatinine(245, "1.4~10")
+Class(245, "ckd")
+
+Serum_Creatinine(246, "0.6~1.3")
+Class(246, "notckd")
+
+Serum_Creatinine(247, ">10")
+Class(247, "ckd")
+
+Serum_Creatinine(248, "1.4~10")
+Class(248, "ckd")
+
+Serum_Creatinine(249, ">10")
+Class(249, "ckd")
+
+Serum_Creatinine(250, "0.6~1.3")
+Class(250, "notckd")
+
+Serum_Creatinine(251, "1.4~10")
+Class(251, "ckd")
+
+Serum_Creatinine(252, "0.6~1.3")
+Class(252, "notckd")
+
+Serum_Creatinine(253, "1.4~10")
+Class(253, "ckd")
+
+Serum_Creatinine(254, "0.6~1.3")
+Class(254, "ckd")
+
+Serum_Creatinine(255, "1.4~10")
+Class(255, "ckd")
+
+Serum_Creatinine(256, "0.6~1.3")
+Class(256, "ckd")
+
+Serum_Creatinine(257, "1.4~10")
+Class(257, "ckd")
+
+Serum_Creatinine(258, "0~0.5")
+Class(258, "notckd")
+
+Serum_Creatinine(259, "0.6~1.3")
+Class(259, "notckd")
+
+Serum_Creatinine(260, "0.6~1.3")
+Class(260, "notckd")
+
+Serum_Creatinine(261, "0~0.5")
+Class(261, "notckd")
+
+Serum_Creatinine(262, "0.6~1.3")
+Class(262, "notckd")
+
+Serum_Creatinine(263, "0.6~1.3")
+Class(263, "ckd")
+
+Serum_Creatinine(264, "1.4~10")
+Class(264, "ckd")
+
+Serum_Creatinine(265, "1.4~10")
+Class(265, "ckd")
+
+Serum_Creatinine(266, "1.4~10")
+Class(266, "ckd")
+
+Serum_Creatinine(267, "1.4~10")
+Class(267, "ckd")
+
+Serum_Creatinine(268, "1.4~10")
+Class(268, "ckd")
+
+Serum_Creatinine(269, ">10")
+Class(269, "ckd")
+
+Serum_Creatinine(270, "0.6~1.3")
+Class(270, "notckd")
+
+Serum_Creatinine(271, "0.6~1.3")
+Class(271, "ckd")
+
+Serum_Creatinine(272, "0~0.5")
+Class(272, "notckd")
+
+Serum_Creatinine(273, ">10")
+Class(273, "ckd")
+
+Serum_Creatinine(274, "0.6~1.3")
+Class(274, "notckd")
+
+Serum_Creatinine(275, "0~0.5")
+Class(275, "notckd")
+
+Serum_Creatinine(276, "1.4~10")
+Class(276, "ckd")
+
+Serum_Creatinine(277, ">10")
+Class(277, "ckd")
+
+Serum_Creatinine(278, "0~0.5")
+Class(278, "notckd")
+
+Serum_Creatinine(279, "1.4~10")
+Class(279, "ckd")
+
+Serum_Creatinine(280, "0.6~1.3")
+Class(280, "notckd")
+
+Serum_Creatinine(281, "1.4~10")
+Class(281, "ckd")
+
+Serum_Creatinine(282, "0.6~1.3")
+Class(282, "ckd")
+
+Serum_Creatinine(283, "0.6~1.3")
+Class(283, "ckd")
+
+Serum_Creatinine(284, "0.6~1.3")
+Class(284, "ckd")
+
+Serum_Creatinine(285, "1.4~10")
+Class(285, "ckd")
+
+Serum_Creatinine(286, "1.4~10")
+Class(286, "ckd")
+
+Serum_Creatinine(287, "1.4~10")
+Class(287, "ckd")
+
+Serum_Creatinine(288, "0~0.5")
+Class(288, "notckd")
+
+Serum_Creatinine(289, "0.6~1.3")
+Class(289, "notckd")
+
+Serum_Creatinine(290, "1.4~10")
+Class(290, "ckd")
+
+Serum_Creatinine(291, "1.4~10")
+Class(291, "ckd")
+
+Serum_Creatinine(292, "0.6~1.3")
+Class(292, "ckd")
+
+Serum_Creatinine(293, "0.6~1.3")
+Class(293, "notckd")
+
+Serum_Creatinine(294, "0.6~1.3")
+Class(294, "ckd")
+
+Serum_Creatinine(295, "0.6~1.3")
+Class(295, "notckd")
+
+Serum_Creatinine(296, ">10")
+Class(296, "ckd")
+
+Serum_Creatinine(297, "1.4~10")
+Class(297, "ckd")
+
+Serum_Creatinine(298, "1.4~10")
+Class(298, "ckd")
+
+Serum_Creatinine(299, "0.6~1.3")
+Class(299, "notckd")
+
+Serum_Creatinine(300, "0.6~1.3")
+Class(300, "notckd")
+
+Serum_Creatinine(301, "0.6~1.3")
+Class(301, "notckd")
+
+Serum_Creatinine(302, "1.4~10")
+Class(302, "ckd")
+
+Serum_Creatinine(303, "0.6~1.3")
+Class(303, "notckd")
+
+Serum_Creatinine(304, "1.4~10")
+Class(304, "ckd")
+
+Serum_Creatinine(305, "0.6~1.3")
+Class(305, "ckd")
+
+Serum_Creatinine(306, "1.4~10")
+Class(306, "ckd")
+
+Serum_Creatinine(307, "0.6~1.3")
+Class(307, "notckd")
+
+Serum_Creatinine(308, "1.4~10")
+Class(308, "ckd")
+
+Serum_Creatinine(309, "1.4~10")
+Class(309, "ckd")
+
+Serum_Creatinine(310, "0.6~1.3")
+Class(310, "notckd")
+
+Serum_Creatinine(311, "1.4~10")
+Class(311, "ckd")
+
+Serum_Creatinine(312, "1.4~10")
+Class(312, "ckd")
+
+Serum_Creatinine(313, "1.4~10")
+Class(313, "ckd")
+
+Serum_Creatinine(314, "0.6~1.3")
+Class(314, "notckd")
+
+Serum_Creatinine(315, "1.4~10")
+Class(315, "ckd")
+
+Serum_Creatinine(316, ">10")
+Class(316, "ckd")
+
+Serum_Creatinine(317, "0~0.5")
+Class(317, "notckd")
+
+Serum_Creatinine(318, "0.6~1.3")
+Class(318, "notckd")
+
+Serum_Creatinine(319, "1.4~10")
+Class(319, "ckd")
