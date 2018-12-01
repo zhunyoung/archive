@@ -1,0 +1,10 @@
+TP: 43
+TN: 27
+FP: 8
+FN: 2
+Correct Prediction: 70
+False Prediction: 10
+Not Predicted: 0
+Precision: 0.8431372549019608
+Recall: 0.9555555555555556
+Accuracy: 0.875

@@ -1,0 +1,261 @@
+sc(0,3).
+sc(1,1).
+sc(2,2).
+sc(4,2).
+sc(5,1).
+sc(6,2).
+sc(7,1).
+sc(8,2).
+sc(9,0).
+sc(10,2).
+sc(11,2).
+sc(12,2).
+sc(13,1).
+sc(14,2).
+sc(15,2).
+sc(16,1).
+sc(17,2).
+sc(18,3).
+sc(19,2).
+sc(20,2).
+sc(21,2).
+sc(22,1).
+sc(23,0).
+sc(24,0).
+sc(25,2).
+sc(26,1).
+sc(27,1).
+sc(28,1).
+sc(29,2).
+sc(30,1).
+sc(31,1).
+sc(32,2).
+sc(33,1).
+sc(34,1).
+sc(35,2).
+sc(37,2).
+sc(38,2).
+sc(39,1).
+sc(40,1).
+sc(42,2).
+sc(43,3).
+sc(44,2).
+sc(45,3).
+sc(46,1).
+sc(47,0).
+sc(49,1).
+sc(50,1).
+sc(51,2).
+sc(52,2).
+sc(53,2).
+sc(54,2).
+sc(55,1).
+sc(56,1).
+sc(57,3).
+sc(58,3).
+sc(59,2).
+sc(60,1).
+sc(61,1).
+sc(62,1).
+sc(63,3).
+sc(64,1).
+sc(65,3).
+sc(66,2).
+sc(67,2).
+sc(68,3).
+sc(69,1).
+sc(70,2).
+sc(71,0).
+sc(72,3).
+sc(73,2).
+sc(74,0).
+sc(75,1).
+sc(76,1).
+sc(77,0).
+sc(78,2).
+sc(79,1).
+
+class(X,0) :- sc(X, 0), pf0.
+class(X,0) :- sc(X, 1), pf1.
+class(X,0) :- sc(X, 2), pf2.
+class(X,0) :- sc(X, 3), pf3.
+class(X,1) :- sc(X, 0), pf4.
+class(X,1) :- sc(X, 1), pf5.
+class(X,1) :- sc(X, 2), pf6.
+class(X,1) :- sc(X, 3), pf7.
+
+0.9 :: pf0.
+0.8 :: pf1.
+0.4 :: pf2.
+0.2 :: pf3.
+0.1 :: pf4.
+0.2 :: pf5.
+0.6 :: pf6.
+0.8 :: pf7.
+
+0.6 :: pf8.
+
+class(X,Y) :- ckd_factor(X,Y), pf8.
+
+0.0 :: ckd_factor(0, 0). 
+1.0 :: ckd_factor(0, 1).
+0.0 :: ckd_factor(1, 0). 
+1.0 :: ckd_factor(1, 1).
+0.0 :: ckd_factor(2, 0). 
+1.0 :: ckd_factor(2, 1).
+0.3 :: ckd_factor(3, 0). 
+0.7 :: ckd_factor(3, 1).
+0.0 :: ckd_factor(4, 0). 
+1.0 :: ckd_factor(4, 1).
+0.0 :: ckd_factor(5, 0). 
+1.0 :: ckd_factor(5, 1).
+0.0 :: ckd_factor(6, 0). 
+1.0 :: ckd_factor(6, 1).
+0.0 :: ckd_factor(7, 0). 
+1.0 :: ckd_factor(7, 1).
+0.0 :: ckd_factor(8, 0). 
+1.0 :: ckd_factor(8, 1).
+0.0 :: ckd_factor(9, 0). 
+1.0 :: ckd_factor(9, 1).
+0.0 :: ckd_factor(10, 0). 
+1.0 :: ckd_factor(10, 1).
+0.0 :: ckd_factor(11, 0). 
+1.0 :: ckd_factor(11, 1).
+0.0 :: ckd_factor(12, 0). 
+1.0 :: ckd_factor(12, 1).
+0.2 :: ckd_factor(13, 0). 
+0.8 :: ckd_factor(13, 1).
+0.0 :: ckd_factor(14, 0). 
+1.0 :: ckd_factor(14, 1).
+0.0 :: ckd_factor(15, 0). 
+1.0 :: ckd_factor(15, 1).
+0.9 :: ckd_factor(16, 0). 
+0.1 :: ckd_factor(16, 1).
+0.0 :: ckd_factor(17, 0). 
+1.0 :: ckd_factor(17, 1).
+0.0 :: ckd_factor(18, 0). 
+1.0 :: ckd_factor(18, 1).
+0.0 :: ckd_factor(19, 0). 
+1.0 :: ckd_factor(19, 1).
+0.0 :: ckd_factor(20, 0). 
+1.0 :: ckd_factor(20, 1).
+0.0 :: ckd_factor(21, 0). 
+1.0 :: ckd_factor(21, 1).
+0.0 :: ckd_factor(22, 0). 
+1.0 :: ckd_factor(22, 1).
+0.0 :: ckd_factor(23, 0). 
+1.0 :: ckd_factor(23, 1).
+0.0 :: ckd_factor(24, 0). 
+1.0 :: ckd_factor(24, 1).
+0.0 :: ckd_factor(25, 0). 
+1.0 :: ckd_factor(25, 1).
+0.0 :: ckd_factor(26, 0). 
+1.0 :: ckd_factor(26, 1).
+0.0 :: ckd_factor(27, 0). 
+1.0 :: ckd_factor(27, 1).
+0.0 :: ckd_factor(28, 0). 
+1.0 :: ckd_factor(28, 1).
+0.0 :: ckd_factor(29, 0). 
+1.0 :: ckd_factor(29, 1).
+0.2 :: ckd_factor(30, 0). 
+0.8 :: ckd_factor(30, 1).
+0.0 :: ckd_factor(31, 0). 
+1.0 :: ckd_factor(31, 1).
+0.0 :: ckd_factor(32, 0). 
+1.0 :: ckd_factor(32, 1).
+0.0 :: ckd_factor(33, 0). 
+1.0 :: ckd_factor(33, 1).
+0.0 :: ckd_factor(34, 0). 
+1.0 :: ckd_factor(34, 1).
+0.0 :: ckd_factor(35, 0). 
+1.0 :: ckd_factor(35, 1).
+0.0 :: ckd_factor(36, 0). 
+1.0 :: ckd_factor(36, 1).
+0.4 :: ckd_factor(37, 0). 
+0.6 :: ckd_factor(37, 1).
+0.0 :: ckd_factor(38, 0). 
+1.0 :: ckd_factor(38, 1).
+0.0 :: ckd_factor(39, 0). 
+1.0 :: ckd_factor(39, 1).
+0.0 :: ckd_factor(40, 0). 
+1.0 :: ckd_factor(40, 1).
+0.0 :: ckd_factor(41, 0). 
+1.0 :: ckd_factor(41, 1).
+0.0 :: ckd_factor(42, 0). 
+1.0 :: ckd_factor(42, 1).
+0.0 :: ckd_factor(43, 0). 
+1.0 :: ckd_factor(43, 1).
+0.0 :: ckd_factor(44, 0). 
+1.0 :: ckd_factor(44, 1).
+0.0 :: ckd_factor(45, 0). 
+1.0 :: ckd_factor(45, 1).
+0.0 :: ckd_factor(46, 0). 
+1.0 :: ckd_factor(46, 1).
+0.0 :: ckd_factor(47, 0). 
+1.0 :: ckd_factor(47, 1).
+0.0 :: ckd_factor(48, 0). 
+1.0 :: ckd_factor(48, 1).
+0.0 :: ckd_factor(49, 0). 
+1.0 :: ckd_factor(49, 1).
+0.0 :: ckd_factor(50, 0). 
+1.0 :: ckd_factor(50, 1).
+0.0 :: ckd_factor(51, 0). 
+1.0 :: ckd_factor(51, 1).
+0.0 :: ckd_factor(52, 0). 
+1.0 :: ckd_factor(52, 1).
+0.0 :: ckd_factor(53, 0). 
+1.0 :: ckd_factor(53, 1).
+0.0 :: ckd_factor(54, 0). 
+1.0 :: ckd_factor(54, 1).
+0.0 :: ckd_factor(55, 0). 
+1.0 :: ckd_factor(55, 1).
+0.0 :: ckd_factor(56, 0). 
+1.0 :: ckd_factor(56, 1).
+0.0 :: ckd_factor(57, 0). 
+1.0 :: ckd_factor(57, 1).
+0.0 :: ckd_factor(58, 0). 
+1.0 :: ckd_factor(58, 1).
+0.0 :: ckd_factor(59, 0). 
+1.0 :: ckd_factor(59, 1).
+0.0 :: ckd_factor(60, 0). 
+1.0 :: ckd_factor(60, 1).
+0.0 :: ckd_factor(61, 0). 
+1.0 :: ckd_factor(61, 1).
+0.0 :: ckd_factor(62, 0). 
+1.0 :: ckd_factor(62, 1).
+0.0 :: ckd_factor(63, 0). 
+1.0 :: ckd_factor(63, 1).
+0.0 :: ckd_factor(64, 0). 
+1.0 :: ckd_factor(64, 1).
+0.0 :: ckd_factor(65, 0). 
+1.0 :: ckd_factor(65, 1).
+0.0 :: ckd_factor(66, 0). 
+1.0 :: ckd_factor(66, 1).
+0.1 :: ckd_factor(67, 0). 
+0.9 :: ckd_factor(67, 1).
+0.0 :: ckd_factor(68, 0). 
+1.0 :: ckd_factor(68, 1).
+0.0 :: ckd_factor(69, 0). 
+1.0 :: ckd_factor(69, 1).
+0.0 :: ckd_factor(70, 0). 
+1.0 :: ckd_factor(70, 1).
+0.0 :: ckd_factor(71, 0). 
+1.0 :: ckd_factor(71, 1).
+0.0 :: ckd_factor(72, 0). 
+1.0 :: ckd_factor(72, 1).
+0.0 :: ckd_factor(73, 0). 
+1.0 :: ckd_factor(73, 1).
+0.0 :: ckd_factor(74, 0). 
+1.0 :: ckd_factor(74, 1).
+0.0 :: ckd_factor(75, 0). 
+1.0 :: ckd_factor(75, 1).
+0.0 :: ckd_factor(76, 0). 
+1.0 :: ckd_factor(76, 1).
+0.0 :: ckd_factor(77, 0). 
+1.0 :: ckd_factor(77, 1).
+0.0 :: ckd_factor(78, 0). 
+1.0 :: ckd_factor(78, 1).
+0.0 :: ckd_factor(79, 0). 
+1.0 :: ckd_factor(79, 1).
+
+query(class(_,_)).

@@ -1,0 +1,160 @@
+ class(0,0):	0.2       
+ class(0,1):	0.92      
+ class(1,0):	0.8       
+ class(1,1):	0.68      
+class(10,0):	0.4       
+class(10,1):	0.84      
+class(11,0):	0.4       
+class(11,1):	0.84      
+class(12,0):	0.4       
+class(12,1):	0.84      
+class(13,0):	0.824     
+class(13,1):	0.584     
+class(14,0):	0.4       
+class(14,1):	0.84      
+class(15,0):	0.4       
+class(15,1):	0.84      
+class(16,0):	0.908     
+class(16,1):	0.248     
+class(17,0):	0.4       
+class(17,1):	0.84      
+class(18,0):	0.2       
+class(18,1):	0.92      
+class(19,0):	0.4       
+class(19,1):	0.84      
+ class(2,0):	0.4       
+ class(2,1):	0.84      
+class(20,0):	0.4       
+class(20,1):	0.84      
+class(21,0):	0.4       
+class(21,1):	0.84      
+class(22,0):	0.8       
+class(22,1):	0.68      
+class(23,0):	0.9       
+class(23,1):	0.64      
+class(24,0):	0.9       
+class(24,1):	0.64      
+class(25,0):	0.4       
+class(25,1):	0.84      
+class(26,0):	0.8       
+class(26,1):	0.68      
+class(27,0):	0.8       
+class(27,1):	0.68      
+class(28,0):	0.8       
+class(28,1):	0.68      
+class(29,0):	0.4       
+class(29,1):	0.84      
+ class(3,0):	0.18      
+ class(3,1):	0.42      
+class(30,0):	0.824     
+class(30,1):	0.584     
+class(31,0):	0.8       
+class(31,1):	0.68      
+class(32,0):	0.4       
+class(32,1):	0.84      
+class(33,0):	0.8       
+class(33,1):	0.68      
+class(34,0):	0.8       
+class(34,1):	0.68      
+class(35,0):	0.4       
+class(35,1):	0.84      
+class(36,0):	0         
+class(36,1):	0.6       
+class(37,0):	0.544     
+class(37,1):	0.744     
+class(38,0):	0.4       
+class(38,1):	0.84      
+class(39,0):	0.8       
+class(39,1):	0.68      
+ class(4,0):	0.4       
+ class(4,1):	0.84      
+class(40,0):	0.8       
+class(40,1):	0.68      
+class(41,0):	0         
+class(41,1):	0.6       
+class(42,0):	0.4       
+class(42,1):	0.84      
+class(43,0):	0.2       
+class(43,1):	0.92      
+class(44,0):	0.4       
+class(44,1):	0.84      
+class(45,0):	0.2       
+class(45,1):	0.92      
+class(46,0):	0.8       
+class(46,1):	0.68      
+class(47,0):	0.9       
+class(47,1):	0.64      
+class(48,0):	0         
+class(48,1):	0.6       
+class(49,0):	0.8       
+class(49,1):	0.68      
+ class(5,0):	0.8       
+ class(5,1):	0.68      
+class(50,0):	0.8       
+class(50,1):	0.68      
+class(51,0):	0.4       
+class(51,1):	0.84      
+class(52,0):	0.4       
+class(52,1):	0.84      
+class(53,0):	0.4       
+class(53,1):	0.84      
+class(54,0):	0.4       
+class(54,1):	0.84      
+class(55,0):	0.8       
+class(55,1):	0.68      
+class(56,0):	0.8       
+class(56,1):	0.68      
+class(57,0):	0.2       
+class(57,1):	0.92      
+class(58,0):	0.2       
+class(58,1):	0.92      
+class(59,0):	0.4       
+class(59,1):	0.84      
+ class(6,0):	0.4       
+ class(6,1):	0.84      
+class(60,0):	0.8       
+class(60,1):	0.68      
+class(61,0):	0.8       
+class(61,1):	0.68      
+class(62,0):	0.8       
+class(62,1):	0.68      
+class(63,0):	0.2       
+class(63,1):	0.92      
+class(64,0):	0.8       
+class(64,1):	0.68      
+class(65,0):	0.2       
+class(65,1):	0.92      
+class(66,0):	0.4       
+class(66,1):	0.84      
+class(67,0):	0.436     
+class(67,1):	0.816     
+class(68,0):	0.2       
+class(68,1):	0.92      
+class(69,0):	0.8       
+class(69,1):	0.68      
+ class(7,0):	0.8       
+ class(7,1):	0.68      
+class(70,0):	0.4       
+class(70,1):	0.84      
+class(71,0):	0.9       
+class(71,1):	0.64      
+class(72,0):	0.2       
+class(72,1):	0.92      
+class(73,0):	0.4       
+class(73,1):	0.84      
+class(74,0):	0.9       
+class(74,1):	0.64      
+class(75,0):	0.8       
+class(75,1):	0.68      
+class(76,0):	0.8       
+class(76,1):	0.68      
+class(77,0):	0.9       
+class(77,1):	0.64      
+class(78,0):	0.4       
+class(78,1):	0.84      
+class(79,0):	0.8       
+class(79,1):	0.68      
+ class(8,0):	0.4       
+ class(8,1):	0.84      
+ class(9,0):	0.9       
+ class(9,1):	0.64      
